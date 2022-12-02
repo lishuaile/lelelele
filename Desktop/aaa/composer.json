@@ -1,0 +1,19 @@
+{
+    "name": "lishuaile/lele",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lishuaile\\Lele\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "李帅乐",
+            "email": "1573760863@qq.com"
+        }
+    ]
+}
